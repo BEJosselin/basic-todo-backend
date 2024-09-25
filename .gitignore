@@ -343,3 +343,4 @@ cython_debug/
 #.idea/
 
 
+.gitconfig
